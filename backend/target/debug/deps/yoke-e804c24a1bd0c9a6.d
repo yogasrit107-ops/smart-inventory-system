@@ -1,0 +1,13 @@
+C:\Users\Hp\Documents\Allprojects\smart-inventory-system\backend\target\debug\deps\yoke-e804c24a1bd0c9a6.d: C:\Users\Hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yoke-0.8.1\src\lib.rs C:\Users\Hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yoke-0.8.1\src\cartable_ptr.rs C:\Users\Hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yoke-0.8.1\src\either.rs C:\Users\Hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yoke-0.8.1\src\kinda_sorta_dangling.rs C:\Users\Hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yoke-0.8.1\src\macro_impls.rs C:\Users\Hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yoke-0.8.1\src\utils.rs C:\Users\Hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yoke-0.8.1\src\yoke.rs C:\Users\Hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yoke-0.8.1\src\yokeable.rs C:\Users\Hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yoke-0.8.1\src\zero_from.rs
+
+C:\Users\Hp\Documents\Allprojects\smart-inventory-system\backend\target\debug\deps\libyoke-e804c24a1bd0c9a6.rmeta: C:\Users\Hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yoke-0.8.1\src\lib.rs C:\Users\Hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yoke-0.8.1\src\cartable_ptr.rs C:\Users\Hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yoke-0.8.1\src\either.rs C:\Users\Hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yoke-0.8.1\src\kinda_sorta_dangling.rs C:\Users\Hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yoke-0.8.1\src\macro_impls.rs C:\Users\Hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yoke-0.8.1\src\utils.rs C:\Users\Hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yoke-0.8.1\src\yoke.rs C:\Users\Hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yoke-0.8.1\src\yokeable.rs C:\Users\Hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yoke-0.8.1\src\zero_from.rs
+
+C:\Users\Hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yoke-0.8.1\src\lib.rs:
+C:\Users\Hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yoke-0.8.1\src\cartable_ptr.rs:
+C:\Users\Hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yoke-0.8.1\src\either.rs:
+C:\Users\Hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yoke-0.8.1\src\kinda_sorta_dangling.rs:
+C:\Users\Hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yoke-0.8.1\src\macro_impls.rs:
+C:\Users\Hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yoke-0.8.1\src\utils.rs:
+C:\Users\Hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yoke-0.8.1\src\yoke.rs:
+C:\Users\Hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yoke-0.8.1\src\yokeable.rs:
+C:\Users\Hp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\yoke-0.8.1\src\zero_from.rs:
